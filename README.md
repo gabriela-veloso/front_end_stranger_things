@@ -11,7 +11,7 @@ Uma API de backend utilizando Node.js e Express e um frontend com React.
 - Utilizar variáveis de ambiente dentro do Heroku;
 
 # Requisitos Back-End
-- [  :white_check_mark:]: _[Acesse aqui o repositório Back End](https://github)_
+- [  :white_check_mark:]: _[Acesse aqui o repositório Back End](https://github.com/gabriela-veloso/back_end_stranger_things)_
 - Configura as variáveis de ambiente
 - Configura o arquivo Dockerfile
 - Configura arquivo keroku.yml
